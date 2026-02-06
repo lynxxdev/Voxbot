@@ -11,7 +11,7 @@ export default {
 
     if (!queue || !queue.songs.length) return interaction.reply(i18n.__("lyrics.errorNotQueue")).catch(console.error);
 
-    await interaction.reply("⏳ Loading...").catch(console.error);
+    await interaction.reply("Loading...").catch(console.error);
 
     let lyrics = null;
     const title = queue.songs[0].title;
