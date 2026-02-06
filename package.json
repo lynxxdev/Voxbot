@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
-  "version": "2.9.0",
-  "description": "Discord music bot built with discord.js",
+  "name": "VOX",
+  "version": "6.8.3",
+  "description": "Discord bot for music.",
   "main": "index.ts",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Freeman4i37 <https://www.instagram.com/freeman4i37?igsh=YXB0dmlyaDdxbTdx>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/lynxxdev/Voxbot",
+  "repository": "github:lynxxdev/Voxbot",
+  "bugs": "https://github.com/lynxxdev/Voxbot/issues",
   "engines": {
     "node": ">=16.11.0"
   },
