@@ -46,7 +46,7 @@ Exemplos de representação da comunidade incluem usar um e-mail oficial, postar
 
 ## Aplicação
 
-Casos de comportamento abusivo, assédio ou qualquer outro comportamento inaceitável podem ser reportados aos líderes da comunidade responsáveis pela aplicação em [Instagram](https://www.instagram.com/freeman4i37?utm_source=qr&igsh=YXB0dmlyaDdxbTdx).  
+Casos de comportamento abusivo, assédio ou qualquer outro comportamento inaceitável podem ser reportados aos líderes da comunidade responsáveis pela aplicação em [Instagram](https://www.instagram.com/freeman4i37?utm_source=qr&igsh=YXB0dmlyaDdxbTdx), se o link não abrir basta ir no Instagram e procure por @Freeman4i37.
 Todas as denúncias serão analisadas e investigadas de forma rápida e justa.  
 
 Todos os líderes da comunidade são obrigados a respeitar a privacidade e a segurança do denunciante de qualquer incidente.
