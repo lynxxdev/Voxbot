@@ -10,7 +10,6 @@ npm-debug.log
 .replit
 config.json
 CODE_OF_CONDUCT.md
-CONTRIBUTING.md
 Procfile
 Dockerfile
 .dockerignore
